@@ -1,0 +1,768 @@
+*
+{
+    margin: 0px;
+    padding:0px;
+}
+
+.Back{
+    width:100%;
+    height:790px;
+    background-size:cover;
+    background-image: url(Images/jcb.jpg);
+    filter:brightness(95%);
+}
+
+.We{
+    color:yellow;
+    font-size:20px;
+    text-align: center;
+    padding-top:260px; 
+}
+
+.Big{
+    color:whitesmoke;
+    font-size:60px;
+    text-align: center;
+    font-style:italic;
+}
+
+.Para{
+    font-size:20px;
+    color:whitesmoke;
+    text-align: center;
+    
+}
+
+.With{
+    font-size:20px;
+    text-align: center;
+    color:whitesmoke;
+}
+
+.kapil{
+    position: absolute;
+    width: 110px;
+    height:40px;
+    background-color:#FFC93C;
+    border-style: none;
+    margin-left:420px;
+    margin-top: 50px;  
+}
+
+.patel{ 
+    position: absolute;
+    width:125px;
+    height:40px;
+    background-color:white;
+    border-style: none;
+    margin-left:800px;
+    margin-top: 160px;
+    font-weight: bold;
+    
+}
+
+.color{
+    background-color:#FFC93C;
+    width:100%;
+    height:230px;
+}
+
+.Have{
+    font-size:25px;
+    color:black;
+    padding-top:40px; 
+    padding-left:350px;
+}
+
+.Don{
+    font-size:25px;
+    color:black;
+    padding-top:30px; 
+    padding-left:350px;
+}
+
+.lala{
+    width:160px;
+    height:40px;
+    border:none;
+    position:absolute;
+    background-color:black;
+    margin-top:-80px;
+    margin-left:970px;
+    color:white ;
+    font-weight: bold;  
+}
+
+.dada{
+    width:125px;
+    height:40px;
+    border: 2px solid black;
+    position: absolute;
+    background-color:#FFD523;
+    margin-top:-80px;
+    margin-left: 1170px;
+    font-weight: bold;
+}
+
+.door{
+    position: absolute;
+    margin-top: 80px;
+    margin-left:230px;
+}
+
+.chimni1{
+    position: absolute;
+    margin-left:620px;
+    margin-top: 80px;
+
+}
+.hammer{
+    position: absolute;
+    margin-top:80px ;
+    margin-left:1000px ;
+}
+
+.p1{
+    position: absolute;
+    margin-top: 350px;
+}
+.auto{
+    margin-left:260px ;
+}
+.pr1{
+    margin-left:160px;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+.p2{
+    position: absolute;
+    margin-top: 350px;
+}
+.power{
+    
+    margin-left:680px ;
+   
+
+}   
+.pre2{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left:550px;
+
+}
+.p3{
+    
+}
+.enggi{
+    position: absolute;
+    margin-top:350px;
+    margin-left:1050px;
+
+
+}
+.pre3{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 370px;
+    margin-left: 920px;
+
+}
+
+.weld{
+    position: absolute;
+    margin-top:580px;
+    margin-left:230px;
+
+}
+.tracktor{
+    position: absolute;
+    margin-top:580px;
+    margin-left:620px;
+
+
+}
+.diesel{
+    position: absolute;
+    margin-top:580px;
+    margin-left:1000px;
+}
+
+.p11{
+    position: absolute;
+    margin-top: 850px;
+}
+.auto1{
+    margin-left:290px ;
+}
+.pr11{
+    margin-left:130px;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+.tala{
+    margin-top:1000px;
+    margin-left:350px;
+    background-color:orange;
+    color:black;
+    
+}
+.p22{
+    position: absolute;
+    margin-top: -170px;
+}
+.power1{
+    
+    margin-left:720px ;
+}   
+.pre22{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left:550px;
+}
+
+.wala{
+    margin-top:1000px;
+    margin-left:320px;
+    background-color:orange;
+    color:black;
+}
+.p33{
+    position: absolute;
+    margin-top:-520px;
+}
+.enggi1{
+    position: absolute;
+    margin-top:350px;
+    margin-left:1090px;
+
+
+}
+.pre33{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 390px;
+    margin-left: 910px;
+}
+
+.uala{
+    margin-top:-20px;
+    margin-left:290px;
+    background-color:orange;
+    color:black;
+}
+
+.MOHIT{
+    margin-top:100px;
+    background-color:#F4EEE8;
+    width:100%;
+    height:880px;
+}
+
+.ganesh{
+    padding:30px;
+}
+
+.ALL{
+    font-size: 20px;
+}
+
+.Our{
+    font-size:30px;
+}
+
+.Yellow{
+    padding-top:20px;
+    font-size:18px
+}
+
+.year{
+
+    font-size:18px;
+    text-align:center;
+}
+
+.AAOG{
+    margin-top:35px;
+    margin-left:-610px;
+    width:550px;
+    height:550px;
+}
+
+.Aaja{
+    padding-top:50px;
+}
+
+.Raj{
+    padding-top:50px; 
+}
+
+.Ram{
+    padding-top:50px;
+
+}
+
+.About{
+    margin-left:-420px;
+}
+
+.only{
+    margin-top:20px ;
+}
+
+.Mission{
+    margin-left:-340px;
+}
+
+.level{
+    margin-top:20px ;
+}
+
+.Goals{
+    margin-left:-370px;
+}
+
+.limit{
+    margin-top:20px ;
+}
+
+.imgcn{
+    margin-top:-500px;
+    margin-left:540px;
+    
+}
+
+.kpap{
+    margin-top:-510px;
+    float: right;
+    margin-right:-635px;
+    width:280px;
+    height:490px; 
+}
+
+.mpvp{
+    padding-top:20px;
+}
+
+.spvp{
+    padding-top:40px;
+}
+
+.apvp{
+    padding-top:40px;
+}
+
+.spvn{
+    padding-top:20px;
+}
+
+.wpvn{
+    padding-top:40px;
+}
+
+.epvn{
+    padding-top:40px;
+}
+
+.dimple{
+    background-image: url(Images/back.jpeg);
+    width:100%;
+    height:500px;
+}
+
+.mcb{
+    padding-top:150px;
+    padding-left:150px;
+}
+
+.kcb{
+    margin-top:-280px;
+    padding-left:450px;
+}
+
+.lcb{
+    margin-top:-280px;
+    padding-left:750px;
+}
+
+.ncb{
+    margin-top:-280px;
+    padding-left:1050px;
+}
+
+.LOGO{
+    background-color:#F4EEE8;
+    width:100%;
+    height:300px;
+}
+
+.oneone{
+    padding-top:100px;
+    padding-left:160px;
+}
+
+.oneone{
+    padding-top:100px;
+    padding-left:130px;
+}
+
+.twotwo{
+    margin-top:-150px;
+    padding-left:360px;
+}
+
+.threethree{
+    margin-top:-150px;
+    padding-left:600px;
+}
+
+.fourfour{
+    margin-top:-150px;
+    padding-left:796px;
+}
+
+.fivefive{
+    margin-top:-150px;
+    padding-left:1000px;
+}
+
+.sixsix{
+    margin-top:-150px;
+    padding-left:1230px;
+}
+
+.white{
+    width:100%;
+    height:740px;
+    background-color:white;
+}
+
+.creative{
+    padding-top:50px;
+}
+
+.Brains{
+    font-size: 35px;
+}
+
+.Team{
+    font-size: 50px;
+}
+
+.oooo{
+    margin-top:80px;
+    margin-left:180px;
+    width:365px;
+    height:430px;
+    background-color:#EEEEEE;
+
+}
+.Mike{
+    font-size:25px;
+    padding-left:70px;
+}
+
+.center{
+    padding-left:40px;
+}
+.pppp{
+    margin-top:-430px;
+    margin-left:590px;
+    width:365px;
+    height:430px;
+    background-color:#EEEEEE;
+
+}
+.Perry{
+    font-size:25px;
+    padding-left:70px;
+}
+
+.left{
+    padding-left:40px;
+}
+.mmmm{
+    margin-top:-430px;
+    margin-left:1000px;
+    width:365px;
+    height:430px;
+    background-color:#EEEEEE;
+
+}
+.Tom{
+    font-size:25px;
+    padding-left:70px;
+}
+
+.right{
+    padding-left:40px;
+}
+
+.jack{
+    width:100%;
+    height:250px;
+    background-color:#FDCA40;
+}
+
+.no{
+    font-size: 30px;
+    padding-top:100px;
+    padding-left:320px;
+
+}
+
+.gara{
+    font-size:20px;
+    margin-top:30px;
+    color:black;
+    margin-left:300px;
+}
+
+.ajay{
+    font-size: 30px;
+    margin-top:-123px;
+    margin-left:580px;
+
+}
+
+.mafia{
+    font-size:20px;
+    margin-top:30px;
+    color:black;
+    margin-left:570px;
+}
+
+.vijay{
+    font-size: 30px;
+    margin-top:-123px;
+    margin-left:850px;
+
+}
+
+.tafia{
+    font-size:20px;
+    margin-top:30px;
+    color:black;
+    margin-left:840px;
+}
+
+.karan{
+    font-size: 30px;
+    margin-top:-123px;
+    margin-left:1070px;
+
+}
+
+.johar{
+    font-size:20px;
+    margin-top:30px;
+    color:black;
+    margin-left:1055px;
+}
+
+.what{
+    background-color:#EEEEEE;
+    width:100%;
+    height:750px;
+}
+
+.font{
+    padding-top:50px;
+    font-size:25px;
+}
+
+.Norton{
+    width:375px;
+    height:470px;
+    background-color:white;
+    margin-top:100px;
+    margin-left:140px;
+}
+
+.Bertie{
+    padding-top:50px;
+    padding-left:20px;
+
+}
+
+.secret{
+    padding-top:50px;
+    padding-left:20px;
+    font-size:25px;
+}
+
+.Top{
+    margin-top:-30px;
+    padding-left:20px;
+}
+
+.Horton{
+    width:375px;
+    height:470px;
+    background-color:white;
+    margin-top:-470px;
+    margin-left:570px;
+}
+
+.Certie{
+    padding-top:-250px;
+    padding-left:20px;
+
+}
+
+.jecret{
+    padding-top:50px;
+    padding-left:20px;
+    font-size:25px;
+}
+
+.Hop{
+    margin-top:-30px;
+    padding-left:20px;
+}
+
+.Dorton{
+    width:375px;
+    height:470px;
+    background-color:white;
+    margin-top:-470px;
+    margin-left:1000px;
+}
+
+.Sertie{
+    padding-top:50px;
+    padding-left:20px;
+
+}
+
+.Lecret{
+    padding-top:50px;
+    padding-left:20px;
+    font-size:25px;
+}
+
+.Gop{
+    margin-top:-30px;
+    padding-left:20px;
+}
+
+.Quality{
+    background-color:#E48900;
+    width:100%;
+    height:455px;
+}
+
+.tata{
+    padding-top:50px;
+    font-size:30px;
+}
+
+.Some{
+    background-color: white;
+    width:100%;
+    height:800px;
+}
+
+.Jan24{
+    padding-top:60px;
+    padding-left:160px;
+}
+
+
+.Jan26{
+    margin-top:-586px;
+    margin-left:570px;
+}
+
+.Jan28{
+    margin-top:-580px;
+    margin-left:980px;
+}
+
+.Ranch{
+    margin-top:50px;
+    margin-left:190px;
+    font-size:16px;
+}
+
+.Aanch{
+    margin-top:-190px;
+    margin-left:600px;
+    font-size:16px;
+}
+
+.Danch{
+    margin-top:-220px;
+    margin-left:1010px;
+    font-size:16px;
+}
+
+.Eala{
+    margin-top:210px;
+    margin-left:300px;
+    background-color:orange;
+    color:black;
+}
+
+.Iala{
+    margin-top:215px;
+    margin-left:710px;
+    background-color:orange;
+    color:black;
+}
+
+.Dala{
+    margin-top:67px;
+    margin-left:1100px;
+    background-color:orange;
+    color:black;
+}
+
+.foot{
+    background-color: black;
+    width:100%;
+    height:420px;
+}
+
+.Web{
+    background-color:#393E46;
+    width:100%;
+    height:200px;
+}
+
+.create{
+    text-align: center;
+    padding-top:100px;
+}
+
+.visit{
+    padding-left:160px;
+    padding-top:80px;
+}
+
+.us{
+    margin-top:-230px;
+    margin-left:210px;
+    color:yellow;
+}
+
+.hist{
+    margin-top:-270px;
+    margin-left:635px;
+}
+
+.mange{
+    margin-top:10px;
+    margin-left:690px;
+    color:yellow;
+}
+
+.mist{
+    margin-top:-270px;
+    margin-left:1175px;
+}
+
+.more{
+    margin-top:30px;
+    margin-left:1240px;
+    color:yellow;
+}
